@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturyCalculator.UI", "Century Calculator\CenturyCalculator.UI.csproj", "{D7636807-439D-45E0-9470-8886B89D0220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturyCalculator.Logic", "CenturyCalculator.Logic\CenturyCalculator.Logic.csproj", "{FF668D0D-39B5-4759-B115-53AB95072655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7636807-439D-45E0-9470-8886B89D0220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7636807-439D-45E0-9470-8886B89D0220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7636807-439D-45E0-9470-8886B89D0220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7636807-439D-45E0-9470-8886B89D0220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF668D0D-39B5-4759-B115-53AB95072655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF668D0D-39B5-4759-B115-53AB95072655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF668D0D-39B5-4759-B115-53AB95072655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF668D0D-39B5-4759-B115-53AB95072655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B85F6758-4E83-4B80-BA4C-23F5F35C1E04}
+	EndGlobalSection
+EndGlobal
